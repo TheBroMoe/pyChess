@@ -72,13 +72,12 @@ The contents in the file include:
   
   ### For Windows
     
-    ###### python and pip must be in your path for this to work
+    # Python and pip must be in your path for this to work
     
-    ```
     pip install --user pygame
     python chess.py
-    ```
-  ### For Ubuntu
+ 
+ ### For Ubuntu
   ```
   sudo apt install python3-pip
   pip3 -m install --user pygame
