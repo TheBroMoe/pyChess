@@ -56,7 +56,7 @@ The algorithm maintains two values, alpha and beta, which represent the minimum 
 
 * Creating  a graphical user interface using pygame that draws the board and chess pieces and allows user to play the game and make moves with the mouse and prompts or certain tasks are displayed on the terminal while game is running.
 
-The contents in the file include:
+#### The contents in the file include:
 * assets folder: Contains all the chess piece sprites used for game’s graphics.
 * chess.py : Main program used to run interface and game. Run this program when starting the game
 * board.py: Contains board class and it’s methods. Also contains the alphabeta method that the computer uses to make moves
